@@ -1,4 +1,5 @@
 # List of all project
+---
 
 ### CSS 3
 
@@ -8,10 +9,16 @@
 4. [Clip-path Mousemove and VanilaJS](https://dudek-igor.github.io/CSS__Clip-path_Mousemove_and_VanilaJS/)
 5. [Flight Loader Animation](https://dudek-igor.github.io/CSS__Flight_Loader_Animation/)
 6. [Animated Floating Input Labels](https://dudek-igor.github.io/CSS__Animated_Floating_Input_Labels/)
+---
 
 ### JavaScript
 
 1. [Aniamted SVG Robot Through GSAP](https://dudek-igor.github.io/JS__Aniamted_SVG_Robot_Through_GSAP/)
+2. [Drawing Stars on a Canvas](https://dudek-igor.github.io/JS__Draving_Stars_on_a_Canvas/)
+---
+
+### React
+---
 
 ### Electron
 
@@ -19,6 +26,5 @@
 2. [CPU Monitor](https://github.com/dudek-igor/Electron__CPU-monitor)
 3. [Bug Logger](https://github.com/dudek-igor/Electron__BugLogger)
 
-### React
-
 ### Angular
+---
