@@ -2,16 +2,16 @@
 
 ### CSS 3
 
-1. [Curved_Background_Effects](https://dudek-igor.github.io/CSS__Curved_Background_Effects/)
-2. [Button_Hover_Animation_Border_Effect](https://dudek-igor.github.io/CSS__Button_Hover_Animation_Border_Effect/)
-3. [Glowing_Preloader](https://dudek-igor.github.io/CSS__Glowing_Preloader/)
-4. [Clip-path_Mousemove_and_VanilaJS](https://dudek-igor.github.io/CSS__Clip-path_Mousemove_and_VanilaJS/)
-5. [Flight_Loader_Animation](https://dudek-igor.github.io/CSS__Flight_Loader_Animation/)
+1. [Curved Background Effects](https://dudek-igor.github.io/CSS__Curved_Background_Effects/)
+2. [Button Hover Animation Border Effect](https://dudek-igor.github.io/CSS__Button_Hover_Animation_Border_Effect/)
+3. [Glowing Preloader](https://dudek-igor.github.io/CSS__Glowing_Preloader/)
+4. [Clip-path Mousemove and VanilaJS](https://dudek-igor.github.io/CSS__Clip-path_Mousemove_and_VanilaJS/)
+5. [Flight Loader Animation](https://dudek-igor.github.io/CSS__Flight_Loader_Animation/)
 6. [Animated Floating Input Labels](https://dudek-igor.github.io/CSS__Animated_Floating_Input_Labels/)
 
 ### JavaScript
 
-1. [Aniamted_SVG_Robot_Through_GSAP](https://dudek-igor.github.io/JS__Aniamted_SVG_Robot_Through_GSAP/)\
+1. [Aniamted SVG Robot Through GSAP](https://dudek-igor.github.io/JS__Aniamted_SVG_Robot_Through_GSAP/)
 
 ### Electron
 
