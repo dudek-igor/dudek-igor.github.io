@@ -7,6 +7,7 @@
 3. [Glowing_Preloader](https://dudek-igor.github.io/CSS__Glowing_Preloader/)
 4. [Clip-path_Mousemove_and_VanilaJS](https://dudek-igor.github.io/CSS__Clip-path_Mousemove_and_VanilaJS/)
 5. [Flight_Loader_Animation](https://dudek-igor.github.io/CSS__Flight_Loader_Animation/)
+6. [Animated Floating Input Labels](https://dudek-igor.github.io/CSS__Animated_Floating_Input_Labels/)
 
 ### JavaScript
 
