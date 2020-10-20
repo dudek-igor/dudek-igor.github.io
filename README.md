@@ -10,6 +10,7 @@
 5. [Flight Loader Animation](https://dudek-igor.github.io/CSS__Flight_Loader_Animation/)
 6. [Animated Floating Input Labels](https://dudek-igor.github.io/CSS__Animated_Floating_Input_Labels/)
 7. [Animated any SVG](https://dudek-igor.github.io/CSS__Animated_any_SVG/)
+8. [Animated Apple Logo](https://dudek-igor.github.io/CSS__Animated_Apple_Logo/)
 ---
 
 ### JavaScript
