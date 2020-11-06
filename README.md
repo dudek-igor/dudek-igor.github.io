@@ -27,6 +27,10 @@
 1. [Devcamper API](https://github.com/dudek-igor/Node__Devcamper_backend_API)
 ---
 
+### MERN Stack 
+1. [Simply in touch platform](https://github.com/dudek-igor/MERN__In_Touch_Platform)
+2. Simply E-commerce
+
 ### Electron
 
 1. [Image Shrink](https://github.com/dudek-igor/Electron__ImageShrink)
