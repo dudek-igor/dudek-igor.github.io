@@ -28,7 +28,8 @@
 ---
 
 ### MERN Stack 
-1. [Simply in touch platform](https://github.com/dudek-igor/MERN__In_Touch_Platform)
+1. - [Heroku - Link](https://protected-mountain-93708.herokuapp.com/)
+    - Repo - [Developers platform](https://github.com/dudek-igor/MERN__Developers_Platform)
 2. Simply E-commerce
 
 ### Electron
