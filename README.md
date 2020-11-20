@@ -12,19 +12,23 @@
 7. [Animated any SVG](https://dudek-igor.github.io/CSS__Animated_any_SVG/)
 8. [Animated Apple Logo](https://dudek-igor.github.io/CSS__Animated_Apple_Logo/)
 9. [Clip Path As Effect](https://dudek-igor.github.io/CSS__Clip_Path_As_Effect/)
+
 ---
 
 ### JavaScript
 
 1. [Aniamted SVG Robot Through GSAP](https://dudek-igor.github.io/JS__Aniamted_SVG_Robot_Through_GSAP/)
 2. [Drawing Stars on a Canvas](https://dudek-igor.github.io/JS__Draving_Stars_on_a_Canvas/)
+
 ---
 
 ### React
+
 ---
 
 ### Node
 1. [Devcamper API](https://github.com/dudek-igor/Node__Devcamper_backend_API)
+
 ---
 
 ### MERN Stack 
@@ -32,11 +36,16 @@
     - Repo - [Developers platform](https://github.com/dudek-igor/MERN__Developers_Platform)
 2. Simply E-commerce
 
+---
+
 ### Electron
 
 1. [Image Shrink](https://github.com/dudek-igor/Electron__ImageShrink)
 2. [CPU Monitor](https://github.com/dudek-igor/Electron__CPU-monitor)
 3. [Bug Logger](https://github.com/dudek-igor/Electron__BugLogger)
 
+---
+
 ### Angular
+
 ---
