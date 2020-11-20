@@ -27,13 +27,16 @@
 ---
 
 ### Node
+
 1. [Devcamper API](https://github.com/dudek-igor/Node__Devcamper_backend_API)
 
 ---
 
 ### MERN Stack 
+
 1. - [Heroku - Link](https://protected-mountain-93708.herokuapp.com/)
     - Repo - [Developers platform](https://github.com/dudek-igor/MERN__Developers_Platform)
+    
 2. Simply E-commerce
 
 ---
@@ -45,6 +48,10 @@
 3. [Bug Logger](https://github.com/dudek-igor/Electron__BugLogger)
 
 ---
+
+#### Firebase + React
+
+1. Advance E-commerace
 
 ### Angular
 
