@@ -43,7 +43,7 @@
 
 ---
 
-### Electronhttps://devcampers-igor-dudek.herokuapp.com/
+### Electron
 
 1. [Image Shrink](https://github.com/dudek-igor/Electron__ImageShrink)
 2. [CPU Monitor](https://github.com/dudek-igor/Electron__CPU-monitor)
