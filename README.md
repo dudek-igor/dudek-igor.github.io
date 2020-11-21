@@ -23,25 +23,27 @@
 ---
 
 ### React
-
+1. - [Wildfire from NASA API hosted by Heroku](https://intense-gorge-41641.herokuapp.com/)
+    - Repo - [Wildfire](https://github.com/dudek-igor/React__Wildfire_from_NASA_API)
 ---
 
-### Node
+### Node.js
 
-1. [Devcamper API](https://github.com/dudek-igor/Node__Devcamper_backend_API)
+1. - [Devcamper API hosted by Heroku](https://devcampers-igor-dudek.herokuapp.com/)
+    - Repo - [Devcamper API](https://github.com/dudek-igor/Node__Devcamper_backend_API)
 
 ---
 
 ### MERN Stack 
 
-1. - [Heroku - Link](https://protected-mountain-93708.herokuapp.com/)
+1. - [Developers Platform hosted by Heroku](https://protected-mountain-93708.herokuapp.com/)
     - Repo - [Developers platform](https://github.com/dudek-igor/MERN__Developers_Platform)
     
 2. Simply E-commerce
 
 ---
 
-### Electron
+### Electronhttps://devcampers-igor-dudek.herokuapp.com/
 
 1. [Image Shrink](https://github.com/dudek-igor/Electron__ImageShrink)
 2. [CPU Monitor](https://github.com/dudek-igor/Electron__CPU-monitor)
@@ -49,9 +51,11 @@
 
 ---
 
-#### Firebase + React
+### Firebase + React
 
 1. Advance E-commerace
+
+---
 
 ### Angular
 
