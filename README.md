@@ -25,6 +25,11 @@
 ### React
 1. - [Wildfire from NASA API hosted by Heroku](https://intense-gorge-41641.herokuapp.com/)
     - Repo - [Wildfire](https://github.com/dudek-igor/React__Wildfire_from_NASA_API)
+2. - [Income Tracker - use Context API with useReducer](https://dudek-igor.github.io/React__Income_Tracker/)
+    - Repo - [Income Tracker](https://github.com/dudek-igor/React__Income_Tracker)
+3. - [Budget App - Redux](https://dudek-igor.github.io/React__Budget_App/)
+    - Repo - [Budget App](https://github.com/dudek-igor/React__Budget_App)
+
 ---
 
 ### Node.js
