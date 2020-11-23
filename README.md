@@ -19,6 +19,7 @@
 
 1. [Aniamted SVG Robot Through GSAP](https://dudek-igor.github.io/JS__Aniamted_SVG_Robot_Through_GSAP/)
 2. [Drawing Stars on a Canvas](https://dudek-igor.github.io/JS__Draving_Stars_on_a_Canvas/)
+3. [Video Face Detection](https://dudek-igor.github.io/JS__Video_Face_Detection/)
 
 ---
 
