@@ -24,28 +24,37 @@
 ---
 
 ### React
-1. - [Wildfire from NASA API hosted by Heroku](https://intense-gorge-41641.herokuapp.com/)
-    - Repo - [Wildfire](https://github.com/dudek-igor/React__Wildfire_from_NASA_API)
-2. - [Income Tracker - use Context API with useReducer](https://dudek-igor.github.io/React__Income_Tracker/)
-    - Repo - [Income Tracker](https://github.com/dudek-igor/React__Income_Tracker)
-3. - [Budget App - Redux](https://dudek-igor.github.io/React__Budget_App/)
-    - Repo - [Budget App](https://github.com/dudek-igor/React__Budget_App)
 
+1. Wildfire from NASA API hosted by Heroku
+    - [Heroku Link](https://intense-gorge-41641.herokuapp.com/)
+    - [Repo Link](https://github.com/dudek-igor/React__Wildfire_from_NASA_API)
+2. Income Tracker - use Context API with useReducer
+    - [Gh Pages Link](https://dudek-igor.github.io/React__Income_Tracker/)
+    - [Repo Link](https://github.com/dudek-igor/React__Income_Tracker)
+3. Budget App - Redux
+    - [Gh Pages Link](https://dudek-igor.github.io/React__Budget_App/)
+    - [Repo Link](https://github.com/dudek-igor/React__Budget_App)
+    
 ---
 
 ### Node.js
 
-1. - [Devcamper API hosted by Heroku](https://devcampers-igor-dudek.herokuapp.com/)
-    - Repo - [Devcamper API](https://github.com/dudek-igor/Node__Devcamper_backend_API)
-2. [Two Factor Authentication powered by Node.js & Speakeasy](https://github.com/dudek-igor/Node__Two_Factor_Authentication_powered_by_Node.js_Speakeasy)
-3. - [Realtime Chat powered by Socket.io hosted by Heroku](https://mysterious-woodland-19689.herokuapp.com/index.html)
-    - Repo - [Realtime Chat powered by Socket.io](https://github.com/dudek-igor/Node__Realtime_Chat_powered_by_Socket.io)
+1. Devcamper API 
+    - [Heroku Link](https://devcampers-igor-dudek.herokuapp.com/)
+    - [Repo Link](https://github.com/dudek-igor/Node__Devcamper_backend_API)
+2. Two Factor Authentication powered by Node.js & Speakeasy
+    - [Repo Link](https://github.com/dudek-igor/Node__Two_Factor_Authentication_powered_by_Node.js_Speakeasy)
+3. Realtime Chat powered by Socket.io hosted by Heroku
+    - [Heroku Link](https://mysterious-woodland-19689.herokuapp.com/index.html)
+    - [Repo Link](https://github.com/dudek-igor/Node__Realtime_Chat_powered_by_Socket.io)
+    
 ---
 
 ### MERN Stack 
 
-1. - [Developers Platform hosted by Heroku](https://protected-mountain-93708.herokuapp.com/)
-    - Repo - [Developers platform](https://github.com/dudek-igor/MERN__Developers_Platform)
+1. Developers Platform hosted by Heroku
+    - [Heroku Link](https://protected-mountain-93708.herokuapp.com/)
+    - [Repo Link](https://github.com/dudek-igor/MERN__Developers_Platform)
     
 2. Simply E-commerce
 
