@@ -31,7 +31,10 @@
 2. Income Tracker - use Context API with useReducer
     - [Gh Pages Link](https://dudek-igor.github.io/React__Income_Tracker/)
     - [Repo Link](https://github.com/dudek-igor/React__Income_Tracker)
-3. Budget App - Redux
+4. Infinite Gallery - powered by Unsplash API
+    - [Gh Pages Link](https://dudek-igor.github.io/React__Infinite_Gallery/)
+    - [Repo Link](https://github.com/dudek-igor/React__Infinite_Gallery)
+4. Budget App - Redux
     - [Gh Pages Link](https://dudek-igor.github.io/React__Budget_App/)
     - [Repo Link](https://github.com/dudek-igor/React__Budget_App)
     
