@@ -28,13 +28,13 @@
 1. Wildfire from NASA API hosted by Heroku
     - [Heroku Link](https://intense-gorge-41641.herokuapp.com/)
     - [Repo Link](https://github.com/dudek-igor/React__Wildfire_from_NASA_API)
-2. Income Tracker - use Context API with useReducer
-    - [Gh Pages Link](https://dudek-igor.github.io/React__Income_Tracker/)
-    - [Repo Link](https://github.com/dudek-igor/React__Income_Tracker)
-4. Infinite Gallery - powered by Unsplash API
+2. Infinite Gallery - powered by Unsplash API
     - [Gh Pages Link](https://dudek-igor.github.io/React__Infinite_Gallery/)
     - [Repo Link](https://github.com/dudek-igor/React__Infinite_Gallery)
-4. Budget App - Redux
+3. Income Tracker - use Context API with useReducer
+    - [Gh Pages Link](https://dudek-igor.github.io/React__Income_Tracker/)
+    - [Repo Link](https://github.com/dudek-igor/React__Income_Tracker)
+4. Budget App - Redux - Working on
     - [Gh Pages Link](https://dudek-igor.github.io/React__Budget_App/)
     - [Repo Link](https://github.com/dudek-igor/React__Budget_App)
     
@@ -55,11 +55,15 @@
 
 ### MERN Stack 
 
-1. Developers Platform hosted by Heroku
+1. Stateful User Authentication powered by Passport.js 
+    - [Heroku Link](https://passport-and-react.herokuapp.com/)
+    - [Repo Link](https://github.com/dudek-igor/MERN__Stateful_User_Authentication_via_Passport.js)
+
+2. Developers Platform hosted by Heroku
     - [Heroku Link](https://protected-mountain-93708.herokuapp.com/)
     - [Repo Link](https://github.com/dudek-igor/MERN__Developers_Platform)
     
-2. Simply E-commerce
+3. Simply E-commerce
 
 ---
 
